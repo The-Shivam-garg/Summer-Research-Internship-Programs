@@ -1,5 +1,5 @@
 # Summer-Research-Internship-Programs
-Don't forget to join the awesome Techbencher's community for more resources like this: [Techbencher's Community](https://discord.gg/7tPVBnPTdN)
+
 ### Programs:
 1.  [MIT Summer Research Program , MIT ](https://oge.mit.edu/graddiversity/msrp/) **15Nov-10Jan**
 1.   [HSCI Internship Program (HIP) , Harvard](https://hsci.harvard.edu/research/hsci-internship-program-hip)
@@ -74,3 +74,5 @@ Don't forget to join the awesome Techbencher's community for more resources like
 ### Apply Process:
 1. Apply when the application opens
 2. Mail the professor you want to work under and get selected for the program . **[Note : You will find the professor's mail from the  university's departmental pages .]**
+
+### Don't forget to join the awesome Techbencher's community for more resources like this: [Techbencher's Community](https://discord.gg/7tPVBnPTdN)
